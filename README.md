@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="http://blog.launchdarkly.com/wp-content/uploads/2016/02/ld_logo_blue.png">
-</p>
-
 ### Table of Contents
 1. [Introduction](https://github.com/launchdarkly/featureflags/blob/master/1%20-%20Introduction.md)
 2. [Uses](https://github.com/launchdarkly/featureflags/blob/master/2%20-%20Uses.md)
